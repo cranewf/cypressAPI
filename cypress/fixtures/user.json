@@ -1,0 +1,26 @@
+{
+  "url": "/user/",
+
+  "user": [
+    {
+      "id": 13,
+      "username": "Лютый",
+      "firstName": "Семен",
+      "lastName": "Афанасьев",
+      "email": "testlut@test.ru",
+      "password": "testone",
+      "phone": "+79500000000",
+      "userStatus": 0
+    },
+    {
+      "id": 13,
+      "username": "Тихий",
+      "firstName": "Иннокентий",
+      "lastName": "Павлов",
+      "email": "testtih@test.ru",
+      "password": "testtwo",
+      "phone": "+79520000000",
+      "userStatus": 0
+    }
+  ]
+}
